@@ -9,15 +9,9 @@ package ejerciciogit;
  *
  * @author dam
  */
-public class EjercicioGit {
+public class NuevaClase {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        System.out.println("Primer cambio en la clase main()");
-        System.out.println("Segundo cambio en la clase main()");
-        System.out.println("Lineas en el método main");
+        System.out.println("En la rama.Se crea la clase nueva");
     }
-    
 }
